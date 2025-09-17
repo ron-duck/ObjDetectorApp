@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Object Detector</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="confidence">Confidence: %.1f%%</string>
+    <string name="detecting_objects">Detecting objects...</string>
+    <string name="error_camera_unavailable">Camera is not available</string>
+    <string name="error_object_detection">Error during object detection</string>
+    <string name="no_objects_detected">No objects detected</string>
+    <style name="Theme.ObjectDetector" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryVariant">@android:color/holo_blue_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        
+        <item name="colorSecondary">@android:color/holo_orange_light</item>
+        <item name="colorSecondaryVariant">@android:color/holo_orange_dark</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Object Detector</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="detecting_objects">Detecting objects...</string>
+    <string name="no_objects_detected">No objects detected</string>
+    <string name="confidence">Confidence: %.1f%%</string>
+    <string name="error_camera_unavailable">Camera is not available</string>
+    <string name="error_object_detection">Error during object detection</string>
+</resources>

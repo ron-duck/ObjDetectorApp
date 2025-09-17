@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.objectdetector.app-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.example.objectdetector.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.objectdetector.app-merged_res-43:/layout_item_detection_result.xml.flat",
+        "source": "com.example.objectdetector.app-main-45:/layout/item_detection_result.xml"
+    }
+]
